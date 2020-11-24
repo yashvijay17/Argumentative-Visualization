@@ -1,0 +1,14 @@
+body {
+    margin:auto;
+      width: 70%;
+  }
+  h1,h2,h4,h5 {
+    text-align: center;
+  }
+  p {
+    margin-top:10px;
+    text-align: left;
+  }
+html {
+  font-family: 'Trebuchet MS', sans-serif;
+}
